@@ -1,4 +1,4 @@
-import 'package:bags/bag_home.dart';
+import 'package:bags/screens/bag_home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
